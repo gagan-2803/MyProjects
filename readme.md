@@ -1,0 +1,1 @@
+This is a fully functional Frontend Weather App which fetches the weather requests from an open source weather API "https://openweathermap.org/"
